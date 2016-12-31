@@ -1,0 +1,23 @@
+package:
+  name: rubicon-objc
+  version: "0.2.3"
+
+source:
+  path: .
+
+build:
+  number: 1
+
+requirements:
+  build:
+    - python
+  run:
+    - python
+
+test:
+  commands:
+    - echo "Tests completed"
+
+about:
+  home: https://github.com/pybee/rubicon-objc
+  license: BSD

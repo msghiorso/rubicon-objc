@@ -12,3 +12,4 @@ local
 *.o
 *.d
 *.dylib
+/.ipynb_checkpoints
