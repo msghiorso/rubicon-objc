@@ -1,5 +1,5 @@
 package:
-  name: rubicon-objc
+  name: rubicon
   version: "0.2.3"
 
 source:
